@@ -1,2 +1,2 @@
 # Image-Captioning
-Generating Medical Reports using Chest X-Rays
+Generating Medical Reports of Chest X-Rays using Encoder-Decoder and Attention Mechanism
